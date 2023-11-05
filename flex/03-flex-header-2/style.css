@@ -52,16 +52,16 @@ ul {
   list-style-type: none;
   display: flex;
   margin: 0px;
-  gap: 8px;
+  gap: 16px;
   align-items: center;
 }
 
 .left-aligned {
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
 
 .right-aligned {
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
